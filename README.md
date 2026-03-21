@@ -86,7 +86,7 @@ Reverse Engineering • Binary Exploitation • Web Exploitation • Cryptograph
 <h2 align="center">🐍 GitHub Contributions</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GGolam/GGolam/refs/heads/main/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://ci3.googleusercontent.com/meips/ADKq_NYysShL94b327mkfUQROEmwfIpRT0s1PxNrWhTiWh3vl8v_4VnBS26hVtX8lgI3vMqKAnNdIvJNhvh429yGP8xadEYsjdDEOVdFqDYc6IffsVaSRxgw4Y3kWRQ=s0-d-e1-ft#https://github.githubassets.com/assets/launch-rocket-50abbb915633.png" />
 </p>
 
 <hr/>
