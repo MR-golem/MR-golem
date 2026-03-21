@@ -29,14 +29,10 @@
 
 <!-- ======================= CONTACT ======================= -->
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="dontosintme69@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-Website-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
+  
   </a>
 </p>
 
@@ -86,7 +82,7 @@ Reverse Engineering • Binary Exploitation • Web Exploitation • Cryptograph
 <h2 align="center">🐍 GitHub Contributions</h2>
 
 <p align="center">
-  <img src="https://ci3.googleusercontent.com/meips/ADKq_NYysShL94b327mkfUQROEmwfIpRT0s1PxNrWhTiWh3vl8v_4VnBS26hVtX8lgI3vMqKAnNdIvJNhvh429yGP8xadEYsjdDEOVdFqDYc6IffsVaSRxgw4Y3kWRQ=s0-d-e1-ft#https://github.githubassets.com/assets/launch-rocket-50abbb915633.png" />
+  <img src="" />
 </p>
 
 <hr/>
