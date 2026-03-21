@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <b>GGolam • Offensive Security • Reverse Engineering • CTF Specialist</b>
+  <b>Offensive Security • Reverse Engineering • CTF Specialist</b>
 </p>
 
 <hr/>
@@ -18,10 +18,10 @@
 
 <p align="center">
   <a href="https://www.flagyard.com/profile/GOLEMVS">
-    <img src="https://img.shields.io/badge/FlagYard_Profile-GGolam-0A66C2?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/FlagYard_Profile-Visit-0A66C2?style=for-the-badge" />
   </a>
-  <a href="https://discord.com/users/113x">
-    <img src="https://img.shields.io/badge/Discord-GGolam-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://discord.com/users/g1ol">
+    <img src="https://img.shields.io/badge/Discord-g1ol-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
@@ -30,13 +30,13 @@
 <!-- ======================= CONTACT ======================= -->
 <p align="center">
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-GGolam-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/your-linkedin-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-GGolam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-GGolam-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-Website-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
   </a>
 </p>
 
@@ -45,10 +45,10 @@
 <!-- ======================= ABOUT ======================= -->
 <h2 align="center">⚡ PROFILE</h2>
 
-<p align="center" width="70%">
-<b>GGolam</b> — Security researcher specialized in <b>Reverse Engineering</b>, <b>Binary Exploitation</b>, and <b>Web Attacks</b>.  
-Active CTF player solving complex challenges and building offensive tools.  
-Break systems. Analyze deeply. Automate everything.
+<p align="center">
+GGolam — Security researcher focused on <b>Reverse Engineering</b>, <b>Binary Exploitation</b>, and <b>Web Attacks</b>.  
+Active CTF competitor solving real-world challenges.  
+Breaking systems, analyzing logic, and automating everything possible.
 </p>
 
 <hr/>
@@ -57,7 +57,7 @@ Break systems. Analyze deeply. Automate everything.
 <h2 align="center">🏆 FlagYard Progress</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/113x/13x/refs/heads/main/output/download%20(2).svg"
+  <img src="https://raw.githubusercontent.com/GGolam/GGolam/refs/heads/main/output/download%20(2).svg"
        width="240"
        style="border-radius:12px;" />
 </p>
@@ -86,7 +86,7 @@ Reverse Engineering • Binary Exploitation • Web Exploitation • Cryptograph
 <h2 align="center">🐍 GitHub Contributions</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/113x/13x/refs/heads/main/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/GGolam/GGolam/refs/heads/main/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <hr/>
@@ -95,62 +95,12 @@ Reverse Engineering • Binary Exploitation • Web Exploitation • Cryptograph
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=113x&count_private=true&theme=react&border_radius=12"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=113x&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=12"/>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=GGolam&count_private=true&theme=react&border_radius=12"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=GGolam&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=12"/>
 </p>
 
 <p align="center">
-  <img width="320" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=113x&layout=compact&theme=react&border_radius=12"/>
-</p>
-
-<hr/>
-
-<!-- ======================= FOOTER ======================= -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&center=true&vCenter=true&width=600&height=60&duration=4000&lines=GGolam;Always+Breaking;Always+Winning" />
-</p>       width="240"
-       style="border-radius:12px;" />
-</p>
-
-<hr/>
-
-<!-- ======================= STACK ======================= -->
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,js,php,react,nodejs,dotnet,linux,docker,git,mongodb,mysql,sqlite,bash,powershell" />
-</p>
-
-<hr/>
-
-<!-- ======================= EXPERTISE ======================= -->
-<h2 align="center">🔥 Core Expertise</h2>
-
-<p align="center">
-Reverse Engineering • Binary Exploitation • Web Exploitation • Cryptography • Forensics • OSINT • Network Analysis
-</p>
-
-<hr/>
-
-<!-- ======================= CONTRIBUTIONS ======================= -->
-<h2 align="center">🐍 GitHub Contributions</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/113x/13x/refs/heads/main/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-<hr/>
-
-<!-- ======================= GITHUB STATS ======================= -->
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=113x&count_private=true&theme=react&border_radius=12"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=113x&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=12"/>
-</p>
-
-<p align="center">
-  <img width="320" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=113x&layout=compact&theme=react&border_radius=12"/>
+  <img width="320" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=GGolam&layout=compact&theme=react&border_radius=12"/>
 </p>
 
 <hr/>
