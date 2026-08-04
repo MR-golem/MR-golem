@@ -91,7 +91,7 @@ Status:
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/GGolam/GGolam/refs/heads/main/output/download%20(2).svg" width="260">
+<img src="https://raw.githubusercontent.com/MR-golem/MR-golem/refs/heads/main/output/download%20(2).svg" width="260">
 
 </p>
 
@@ -153,7 +153,7 @@ Status:
 
 <p align="center">
 
-<img src="https://github.com/GGolam/GGolam/blob/output/github-contribution-grid-snake-dark.svg">
+<img src="https://github.com/MR-golem/MR-golem/blob/output/github-contribution-grid-snake-dark.svg">
 
 </p>
 
