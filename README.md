@@ -1,5 +1,5 @@
 <div align="center">
-<img height="300" width="700" alt="GIF" align="center" src="https://raw.githubusercontent.com/MR-golem/MR-golem/refs/heads/main/xrvCI5ykhg9QQ.webp">
+<img height="300" width="300" alt="GIF" align="center" src="https://raw.githubusercontent.com/MR-golem/MR-golem/refs/heads/main/xrvCI5ykhg9QQ.webp">
 </div>
 <h1 align="center">
 
