@@ -10,8 +10,7 @@
 ---
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/k85tk8Nb7y)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dontosintme69@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/k85tk8Nb7y) &nbsp; [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dontosintme69@gmail.com)
 
 ---
 
@@ -67,6 +66,3 @@
     <img src="https://img.shields.io/badge/Flagyard-Visit%20Profile-red?style=for-the-badge&logo=hackthebox">
   </a>
 </p>
-
----
-
