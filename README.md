@@ -1,5 +1,4 @@
 <div align="center">
-<img height="300" width="300" alt="GIF" align="center" src="">
 </div>
 <h1 align="center">
 
